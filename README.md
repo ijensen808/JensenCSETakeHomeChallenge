@@ -1,6 +1,6 @@
 # JensenCSETakeHomeChallenge
 
-	Hello and welcome to my rudimentary Bay Area food truck location solution!
+	Hello and welcome to my rudimentary Bay Area food truck location solution!  This solution was built entirely in Power Platform, so to try it out yourself, download either the managed or unmanaged solution archive files and import them to your own Power Platform environment.
 	
 	High-level solution architecture and explanations:
 	
